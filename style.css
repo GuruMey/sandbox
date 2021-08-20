@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #987;
+    display: flex;
+}
+
+.navbar__link {
+    background-color: red;
+}
+
+.navbar__link--selected {
+    background-color: red;
+}
+
